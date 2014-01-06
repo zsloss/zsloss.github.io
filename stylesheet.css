@@ -1,0 +1,81 @@
+body {
+	background-image: url(http://www.designbolts.com/wp-content/uploads/2012/12/White-wall-White-Seamless-Pattern-For-Website-Background.jpg);
+background-color: #FDFDFD;
+}
+
+#container {
+	width: 1000px;
+	margin: 0 auto;	
+}
+
+#container > div {
+}
+
+#name_div {
+	float:left;
+	width:200px;
+}
+
+#first_name {
+	float:left;
+	margin: 0 10px;
+}
+
+#last_name {
+	float:right;
+	margin: 0 10px;
+}
+
+.name_letter {
+	font: bold 32px Verdana, sans-serif;
+	margin: 5px;
+	line-height: 70px;
+	text-align: center;
+	background-color: #FF9999;
+	color: white;
+	width: 70px;
+	height: 70px;
+	border-radius: 100%;
+}
+
+#right_div {
+	margin-left: 50px;
+	float:left;
+	width: 750px;	
+}
+
+#menu_div {
+	border-bottom: 3px solid black;
+}
+
+#menu {
+	padding:0;
+	margin:10px auto;
+	list-style-type:none;	
+	padding: 0 10px;
+}
+
+#menu > li {
+	margin: 0 60px 0 0;
+	display: inline;
+	font: 24px Verdana;
+	color: #BBBBBB;
+
+}
+
+#menu > li:hover {
+	color: #000000;
+}
+
+#content_div {
+	padding: 0 10px;
+}
+
+h1 {
+	font: bold 32px Calibri, sans-serif;
+}
+
+p {
+	font: 18px Georgia, serif;
+	text-align: justify;
+}
