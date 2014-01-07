@@ -1,4 +1,4 @@
-Slossius.github.io
+zsloss.github.io
 ==================
 
 Personal static website in development
